@@ -8,4 +8,4 @@ let random = Math.ceil(Math.random * 69)
 
 const mod = 4 % 6
 
-const max = Number.max(1, 6, 9, 20)
+const max = Math.max(1, 6, 9, 20)
