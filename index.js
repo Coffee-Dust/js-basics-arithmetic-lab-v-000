@@ -5,3 +5,4 @@ let var2 = 2
 const multiply = var1 * var2
 
 let random = Math.ceil(Math.random * 69)
+
